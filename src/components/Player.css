@@ -1,0 +1,22 @@
+.player-card {
+  border: 2px solid hsl(0, 94%, 48%);
+  padding: 16px;
+  margin: 16px;
+  background-color: hsl(130, 76%, 65%);
+  text-align: center;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px #9f14fc33;
+}
+
+.player-card img {
+  max-width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 8px;
+
+
+}
+.player-img {
+  width: 200px;
+  border-radius: 10px;
+}
